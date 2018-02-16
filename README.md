@@ -14,6 +14,6 @@ pocket_access_token=abcdef12-pocket_access_token
 Head to [Pocket Devs](https://getpocket.com/developer/apps/) and create an app with `Add` permissions and category of `Web`.
 
 Next, head to [Authenticate Pocket](http://reader.fxneumann.de/plugins/oneclickpocket/auth.php), enter your consumer key, and the site will
-allow you to authorize your app for your account.
+allow you to authorize your app for your account. You can view the source code for OneClickPocket [here](https://github.com/fxneumann/oneclickpocket).
 
 You're all set!
